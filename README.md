@@ -15,7 +15,7 @@ ESPHome requires byte-array LED animation frames to be defined directly within t
 ## 📁 Repository Structure
 
 * **`animations/`** – Source animation files (JSON / C++ headers) for the matrix.
-* **`3d_models/`** – STL/CAD files for the 3D-printed enclosure.
+* **`3D model files/`** – STL/CAD files for the 3D-printed enclosure.
 * **`images/`** – Project photos and setup showcase (`00.jpg`).
 * **`matrix.yaml`** – Final auto-generated YAML configuration ready for ESPHome.
 * **`generate_yaml.py`** – Python script that compiles all animations into `matrix.yaml`.
