@@ -43,8 +43,8 @@ esp32:
     type: arduino
 
 wifi:
-  ssid: "kubikovi"
-  password: "WeKu4auwrnwwkS5Y"
+  ssid: "changeme"
+  password: "changeme"
 
 logger:
 
